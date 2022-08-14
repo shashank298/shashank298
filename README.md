@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in anything related to frontend
-- 🌱 I’m currently learning frontend / Web3
+- 👀 Interested in anything related to frontend
+- 🌱 Currently learning frontend / Web3
 - 📫 Reach me at shashankkopunuru@gmail.com
 
 <!---
